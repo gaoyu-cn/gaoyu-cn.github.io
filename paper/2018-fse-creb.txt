@@ -1,0 +1,6 @@
+@inproceedings{gao@fse18,
+author = {Gao, Yu and Dou, Wensheng and Qin, Feng and Gao, Chushu and Wang, Dong and Wei, Jun and Huang, Ruirui and Zhou, Li and Wu, Yongming},
+title = {An Empirical Study on Crash Recovery Bugs in Large-Scale Distributed Systems},
+booktitle = {Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018)},
+pages = {539–550}
+}

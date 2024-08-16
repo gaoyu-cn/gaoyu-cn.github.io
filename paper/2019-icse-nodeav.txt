@@ -1,0 +1,6 @@
+@inproceedings{chang@icse19,
+author = {Chang, Xiaoning and Dou, Wensheng and Gao, Yu and Wang, Jie and Wei, Jun and Huang, Tao},
+title = {Detecting Atomicity Violations for Event-Driven Node.Js Applications},
+booktitle = {Proceedings of the 41st International Conference on Software Engineering (ICSE 2019)},
+pages = {631–642}
+}

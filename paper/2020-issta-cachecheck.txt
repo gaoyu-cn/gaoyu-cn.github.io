@@ -1,0 +1,6 @@
+@inproceedings{li@issta20,
+author = {Li, Hui and Wang, Dong and Huang, Tianze and Gao, Yu and Dou, Wensheng and Xu, Lijie and Wang, Wei and Wei, Jun and Zhong, Hua},
+title = {Detecting Cache-Related Bugs in Spark Applications},
+booktitle = {Proceedings of the 29th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2020)},
+pages = {363–375}
+}

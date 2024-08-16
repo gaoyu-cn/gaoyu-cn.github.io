@@ -1,0 +1,6 @@
+@inproceedings{wang@icst18,  
+author={Wang, Jie and Dou, Wensheng and Gao, Chushu and Gao, Yu and Wei, Jun},  
+booktitle={Proceedings of the 2018 IEEE 11th International Conference on Software Testing, Verification and Validation (ICST 2018)},  
+title={Context-Based Event Trace Reduction in Client-Side JavaScript Applications},   
+pages={127-138}
+}

@@ -1,0 +1,5 @@
+@inproceedings{gao@icse22,  
+author={Gao, Yu and Wang, Dong and Dai, Qianwang and Dou, Wensheng and Wei, Jun},  
+booktitle={Proceedings of the 2022 IEEE/ACM 44th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion 2022)},   
+title={Common Data Guided Crash Injection for Cloud Systems}
+}

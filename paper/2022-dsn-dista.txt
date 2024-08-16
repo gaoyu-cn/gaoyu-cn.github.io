@@ -1,0 +1,6 @@
+@inproceedings{wang@dsn22,  
+author={Wang, Dong and Gao, Yu and Dou, Wensheng and Wei, Jun},  
+booktitle={Proceedings of the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2022)},
+title={DisTA: Generic Dynamic Taint Tracking for Java-Based Distributed Systems},  
+pages={547-558}
+}

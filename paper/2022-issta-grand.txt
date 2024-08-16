@@ -1,0 +1,6 @@
+@inproceedings{zheng@issta22,
+author = {Zheng, Yingying and Dou, Wensheng and Wang, Yicheng and Qin, Zheng and Tang, Lei and Gao, Yu and Wang, Dong and Wang, Wei and Wei, Jun},
+title = {Finding Bugs in Gremlin-Based Graph Database Systems via Randomized Differential Testing},
+booktitle = {Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022)},
+pages = {302–313}
+}
