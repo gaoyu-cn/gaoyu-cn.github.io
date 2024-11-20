@@ -98,20 +98,6 @@ a.dotted-link:hover {
   text-decoration: none;
   color: #49515a;
 }
-/* ======= pub-list numbered-list ======= */
-.pub-list {
-    list-style-type: none; /* 去掉默认方框 */
-    padding: 0; /* 去掉内边距 */
-}
-.pub-list li {
-    counter-increment: list-counter; /* 增加计数器 */
-    display: inline-block; /* 使列表项在同一行显示 */
-    margin-right: 10px; /* 添加右侧间距 */
-}
-.pub-list li::before {
-    content: counter(list-counter) ". "; /* 添加自动编号 */
-    font-weight: bold; /* 加粗编号 */
-}
 /*
 iframe {
 
