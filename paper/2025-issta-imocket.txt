@@ -1,0 +1,7 @@
+@inproceedings{gao@issta25,
+author = {Gao, Yu and Wang, Dong and Dou, Wensheng and Feng, Wenhan and Liang, Yu and Feng, Yuan and Wei, Jun},
+title = {Model Checking Guided Incremental Testing for Distributed Systems},
+year = {2025},
+booktitle = {Proceedings of the 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025,)},
+pages = { 297-319}
+}
